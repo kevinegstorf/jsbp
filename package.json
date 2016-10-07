@@ -1,0 +1,24 @@
+{
+  "name": "jsbp",
+  "version": "1.0.0",
+  "description": "boilerplate es6  sass gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevinegstorf/jsbp.git"
+  },
+  "keywords": [
+    "es6",
+    "gulp",
+    "sass"
+  ],
+  "author": "Kevin Egstorf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinegstorf/jsbp/issues"
+  },
+  "homepage": "https://github.com/kevinegstorf/jsbp#readme"
+}
